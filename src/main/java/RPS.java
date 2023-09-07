@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum RPS {
+public enum RPS {
+    ROCK, PAPER, SCISSORS
 }
